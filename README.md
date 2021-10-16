@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey, I'm Thomas a Game programmer and Designer!
 
 <!--
 **Tolsoon/Tolsoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
